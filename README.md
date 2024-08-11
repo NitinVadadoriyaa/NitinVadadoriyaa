@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I’m looking for help with [IOT-Testbet Project(IITKGP-Funded)](OnGoing)
+- 🤝 I fixed some issue in NetworkSecurity Tools. [IOT-Testbet Project(IITKGP-Funded)](OnGoing)
 
 - 💬 Ask me about **MERN STACK**
 
