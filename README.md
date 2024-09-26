@@ -1,7 +1,7 @@
 <h1 align="center"> NitinVadadoriya</h1>
 <h3 align="center">A Passionate For Software Developer From India</h3>
 
-- 🔭 I’m currently studing on [IIITA][MTECH[NetworkSecurity]]
+- 🔭 I’m currently studing on [IIITA-MTECH-NetworkSecurity](())
 
 - 🌱 I’m currently learning **NodeJs,Ethereum**
 
