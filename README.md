@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **GIT-HUB**
 
-- ⚡ Fun fact **LessThink-MoreCode** <a href="[https://www.gnu.org/software/bash/](https://leetcode.com/u/NitinVadadoriya/)" target="_blank" rel="noreferrer"> Coding Profile </a>
+- ⚡ Fun fact **LessThink-MoreCode** <p> <a href="https://leetcode.com/u/NitinVadadoriya/" target="_blank" rel="noreferrer"> Coding Profile </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
