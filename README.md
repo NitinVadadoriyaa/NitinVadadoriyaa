@@ -1,6 +1,8 @@
 <h1 align="center"> NitinVadadoriya</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
+<summary>About Me</summary>
+<ul>
 - 🔭 I’m currently studing in [IIITA-MTECH-NetworkSecurity](())
 
 - 🌱 I’m currently learning **NodeJs,Ethereum**
@@ -14,6 +16,10 @@
 - 📫 How to reach me **GIT-HUB**
 
 - ⚡ Fun fact **LessThink-MoreCode** <p> <a href="https://leetcode.com/u/NitinVadadoriya/" target="_blank" rel="noreferrer"> Coding Profile </a> </p>
+<li> 👨‍💻 TrailHead Profile <a href="https://www.salesforce.com/trailblazer/z52cbv5tq6k6upjg0k">TrailHead</a></li> 
+
+</ul>
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
