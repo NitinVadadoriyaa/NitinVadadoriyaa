@@ -5,15 +5,13 @@
 <ul>
 <li> 🔭 I’m currently studing in <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iiita.ac.in/&ved=2ahUKEwikherOiO6KAxX3avUHHdEPD6AQFnoECAsQAQ&usg=AOvVaw1cIQvQqSQKspU0LJhBK8I5"> IIITA-Metch-NetworkSecurity </a> </li>
 
-<li> 🌱 I’m currently learning **NodeJs,Ethereum** </li>
-
-<li> 👯 I’m looking to collaborate on **Open Source Project** </li>
+<li> 🌱 My Research interest in <a href="https://blog.ueex.com/crypto-terms/stateless-blockchain/"> stateless blockchain </a> </li>
 
 <li> 🤝 I fixed some issue in NetworkSecurity Tools. [IOT-Testbet Project(IITKGP-Funded)](OnGoing) </li>
 
-<li> 💬 Ask me about **MERN STACK** </li>
+<li> 💬 Ask me about <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mongodb.com/resources/languages/mern-stack&ved=2ahUKEwjbxuWqiu6KAxUddvUHHZ4HHoQQFnoECBoQAw&usg=AOvVaw2AR87NAhp-WMSUXuodfP0s"> MERN </a> </li>
 
-<li> 📫 How to reach me **GIT-HUB** </li>
+<li> 📫 How to reach me <a href="www.linkedin.com/in/nitin-vadadoriya-111252195"> Linkedin </a> </li>
 
 <li> ⚡ Fun fact **LessThink-MoreCode** <a href="https://leetcode.com/u/NitinVadadoriya/" target="_blank" rel="noreferrer"> Coding Profile </a> </li>
 <li> 👨‍💻 TrailHead Profile <a href="https://www.salesforce.com/trailblazer/z52cbv5tq6k6upjg0k">TrailHead</a></li> 
