@@ -1,21 +1,21 @@
-<h1 align="center"> NitinVadadoriya</h1>
+<h1 align="center"> NitinVadadoriya </h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
 <summary>About Me</summary>
 <ul>
-- 🔭 I’m currently studing in [IIITA-MTECH-NetworkSecurity](())
+<li> 🔭 I’m currently studing in <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iiita.ac.in/&ved=2ahUKEwikherOiO6KAxX3avUHHdEPD6AQFnoECAsQAQ&usg=AOvVaw1cIQvQqSQKspU0LJhBK8I5"> IIITA-Metch-NetworkSecurity </a> </li>
 
-- 🌱 I’m currently learning **NodeJs,Ethereum**
+<li> 🌱 I’m currently learning **NodeJs,Ethereum** </li>
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+<li> 👯 I’m looking to collaborate on **Open Source Project** </li>
 
-- 🤝 I fixed some issue in NetworkSecurity Tools. [IOT-Testbet Project(IITKGP-Funded)](OnGoing)
+<li> 🤝 I fixed some issue in NetworkSecurity Tools. [IOT-Testbet Project(IITKGP-Funded)](OnGoing) </li>
 
-- 💬 Ask me about **MERN STACK**
+<li> 💬 Ask me about **MERN STACK** </li>
 
-- 📫 How to reach me **GIT-HUB**
+<li> 📫 How to reach me **GIT-HUB** </li>
 
-- ⚡ Fun fact **LessThink-MoreCode** <p> <a href="https://leetcode.com/u/NitinVadadoriya/" target="_blank" rel="noreferrer"> Coding Profile </a> </p>
+<li> ⚡ Fun fact **LessThink-MoreCode** <a href="https://leetcode.com/u/NitinVadadoriya/" target="_blank" rel="noreferrer"> Coding Profile </a> </li>
 <li> 👨‍💻 TrailHead Profile <a href="https://www.salesforce.com/trailblazer/z52cbv5tq6k6upjg0k">TrailHead</a></li> 
 
 </ul>
