@@ -11,7 +11,7 @@
 
 <li> 💬 Ask me about <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mongodb.com/resources/languages/mern-stack&ved=2ahUKEwjbxuWqiu6KAxUddvUHHZ4HHoQQFnoECBoQAw&usg=AOvVaw2AR87NAhp-WMSUXuodfP0s"> MERN </a> </li>
 
-<li> 📫 How to reach me <a href="www.linkedin.com/in/nitin-vadadoriya-111252195"> Linkedin </a> </li>
+<li> 📫 How to reach me <a href="https://www.linkedin.com/in/nitin-vadadoriya-111252195/"> Linkedin </a> </li>
 
 <li> ⚡ Fun fact **LessThink-MoreCode** <a href="https://leetcode.com/u/NitinVadadoriya/" target="_blank" rel="noreferrer"> Coding Profile </a> </li>
 <li> 👨‍💻 TrailHead Profile <a href="https://www.salesforce.com/trailblazer/z52cbv5tq6k6upjg0k">TrailHead</a></li> 
