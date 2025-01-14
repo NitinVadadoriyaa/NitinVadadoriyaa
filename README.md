@@ -3,9 +3,9 @@
 
 <summary>About Me</summary>
 <ul>
-<li> 🔭 I’m currently studing in <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iiita.ac.in/&ved=2ahUKEwikherOiO6KAxX3avUHHdEPD6AQFnoECAsQAQ&usg=AOvVaw1cIQvQqSQKspU0LJhBK8I5"> IIITA-Metch-NetworkSecurity </a> </li>
+<li> 🔭 I’m currently studing in <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iiita.ac.in/&ved=2ahUKEwikherOiO6KAxX3avUHHdEPD6AQFnoECAsQAQ&usg=AOvVaw1cIQvQqSQKspU0LJhBK8I5"> IIITA-Mtech-NetworkSecurity </a> </li>
 
-<li> 🌱 My Research interest in <a href="https://blog.ueex.com/crypto-terms/stateless-blockchain/"> stateless blockchain </a> </li>
+<li> 🌱 My Research interest in <a href="https://blog.ueex.com/crypto-terms/stateless-blockchain/"> Stateless Blockchain </a> </li>
 
 <li> 🤝 I fixed some issue in NetworkSecurity Tools. [IOT-Testbet Project(IITKGP-Funded)](OnGoing) </li>
 
