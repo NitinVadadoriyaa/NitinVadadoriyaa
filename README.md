@@ -14,7 +14,7 @@
 <li> 📫 How to reach me <a href="https://www.linkedin.com/in/nitin-vadadoriya-111252195/"> Linkedin </a> </li>
 
 <li> ⚡ Fun fact **LessThink-MoreCode** <a href="https://leetcode.com/u/NitinVadadoriya/" target="_blank" rel="noreferrer"> Coding Profile </a> </li>
-<li> 👨‍💻 TrailHead Profile <a href="https://www.salesforce.com/trailblazer/z52cbv5tq6k6upjg0k">TrailHead</a></li> 
+<li> 👨‍💻 TrailHead Profile <a href="https://www.salesforce.com/trailblazer/qdntyiuycjp5md5gbl">TrailHead</a></li> 
 
 </ul>
 </details>
